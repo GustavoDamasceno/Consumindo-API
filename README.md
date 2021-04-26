@@ -1,6 +1,10 @@
 # APIexample
 
-A new Flutter project.
+A new Flutter project. Projeto com propóstio de consumir uma API com Flutter de forma simples e rápida, para isso utilizei os dois links abaixo.
+
+Links:
+Json Placeholder: https://jsonplaceholder.typicode.com/...​
+Json to Dart: https://javiercbk.github.io/json_to_d...
 
 ## Getting Started
 
